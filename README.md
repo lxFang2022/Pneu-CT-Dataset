@@ -1,7 +1,7 @@
 # Pneu-CT-Dataset
 The Pneu-CT dataset contains CT images, pneumonia segmentation labels, and medical reports from 200 patients diagnosed with pulmonary infections. The data is provided by Shandong Provincial Qianfoshan Hospital and annotated by its physicians. The dataset is split into a training set of 160 cases, a validation set of 20 cases, and a test set of 20 cases.
 ## Download Link
-https://drive.google.com/file/d/1dfpn05oJ8tDeg8Bmga4tcsLxnNZXiH-q/view?usp=sharing
+https://drive.google.com/file/d/1n5WsxQugsJMnLlz7le1RO_0wt3FkODjx/view?usp=sharing
 ## Use in LanGuideMedSeg/LViT Code
        # --------training.yaml----------
         train_csv_path: ./Pneu-CT/prompt/train.CSV
